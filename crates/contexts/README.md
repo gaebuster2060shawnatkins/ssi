@@ -20,3 +20,5 @@ Files|License
 W3C context files|[W3C Software and Document Notice and License](https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
 Schema.org context files|[Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 [DIF](https://identity.foundation/) context files|[Apache License, Version 2.0](http://www.apache.org/licenses/)
+
+<!-- Auto-update: 2025-10-10T03:16:26.295425 -->
