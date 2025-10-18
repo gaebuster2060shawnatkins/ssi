@@ -8,3 +8,5 @@ Rust implementation of the [did:ethr][] DID Method, based on the [ssi][] library
 
 [did:ethr]: https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md
 [ssi]: https://github.com/spruceid/ssi/
+
+<!-- Auto-update: 2025-10-18T10:44:44.061574 -->
